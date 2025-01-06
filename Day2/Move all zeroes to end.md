@@ -1,4 +1,4 @@
-<h1>Move all zeros to end of array</h1>
+<h1 align="center">Move all zeros to end of array</h1>
 <h3 align="center">Difficulty: Easy || Accuracy: 45.51%</h3>
 <h4 align="center">Company Tags : Paytm, Amazon, Microsoft, Samsung, SAP Labs, Linkedin, Bloomberg</h4>
 <br>
